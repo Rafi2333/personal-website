@@ -54,3 +54,9 @@ img{
     border-radius: 10px;
     color: white;
 }
+footer{
+    text-align: center;
+}
+p{
+    color: dimgray;
+}
